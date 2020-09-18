@@ -1,0 +1,22 @@
+body {
+  background-color: #fb7813;
+  font-family: papyrus;
+}
+
+h1 {
+  font-family: Curlz MT;
+  color: #c10000;
+}
+
+h2 {
+  font-family: Curlz MT;
+  color: #c10000;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: thick;
+  color: #e3dfc8;
+  width: 40px;
+}
