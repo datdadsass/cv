@@ -121,6 +121,9 @@ hr {
   display: inline-block;
 }
 
+.left {
+  text-align: left;
+
 .no-margin {
   margin: 0;
 }
